@@ -67,10 +67,16 @@ a:hover{
   padding: 0px;
 }
 
-.recherche{
+.centerDiv{
   width: 30%;
   height: 40px;
-  margin: 0px;
+  margin: 10px auto 25px auto;
+}
+
+.recherche{
+  width: 100%;
+  height: 40px;
+  margin: auto;
 }
 
 .buttons{
